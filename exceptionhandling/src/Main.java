@@ -28,7 +28,7 @@ public class Main{
         }catch (ArrayIndexOutOfBoundsException e){
             System.out.println("Array Index Out Of Bounds Exception Occurs");
         }
-        
+
 
 
     }
