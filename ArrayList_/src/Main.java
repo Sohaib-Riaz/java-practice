@@ -7,8 +7,8 @@ public class Main {
         fruit.add("Mango");
         fruit.add("Date");
         System.out.println(fruit);
-        
-
+        fruit.remove("Date");
+        System.out.println(fruit);
 
     }
 }
